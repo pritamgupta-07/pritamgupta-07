@@ -15,6 +15,6 @@ Hello, I'm Pritam Gupta, a dedicated undergraduate student with a profound inter
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=pritamgupta-07&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=pritamgupta-07&icon=0&color=0)](https://visitcount.itsvg.in)
+<!--[![](https://visitcount.itsvg.in/api?id=pritamgupta-07&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
